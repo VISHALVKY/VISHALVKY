@@ -40,11 +40,7 @@
 - **Tools**:
 
    ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-   ![Subversion](https://img.shields.io/badge/-Subversion-05122A?style=flat&logo=subversion)&nbsp;
-   ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-   ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
    ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-   ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio- 
-   code&logoColor=007ACC)&nbsp;
+   
+   
 
