@@ -16,7 +16,8 @@
 
    ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
    ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+   ![c](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+   ![C++](https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white)
     
     
 <br>   
