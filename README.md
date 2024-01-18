@@ -17,10 +17,7 @@
    ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
    ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
    ![c](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-   ![C++](https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white)
-    
-    
-<br>   
+   ![C++](https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white)   
     
 - **Front-End Development**:
 
@@ -29,27 +26,23 @@
    ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
    ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-<br>
-
 - **Libraries & Framework**:
 
    ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
    ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
-<br> 
-
 - **Browsers**:
 
    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white"></a>
-	 <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
-	 <a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?logo=Microsoft-edge&logoColor=white"></a>
+   <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
+   <a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?logo=Microsoft-edge&logoColor=white"></a>
 
 - **Tools**:
 
    ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
    ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a> 
   
    
 
