@@ -31,6 +31,14 @@
 
 <br>
 
+- **Libraries & Framework**:
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+
+<br>
+
 - **Tools**:
 
    ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
